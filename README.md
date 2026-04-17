@@ -1,52 +1,51 @@
-# 👋 Hi, I'm Abdul Rehman
+# Hi, I'm Abdul Rehman 👋
 
-🎯 **Test Automation Engineer** | 🛠️ **DevOps Enthusiast**  
-📍 Karachi, Pakistan &nbsp;|&nbsp; 📧 bawanyabdulrehman@gmail.com
+![Banner](./github_premium_banner.png)
 
----
-
-I'm a quality-driven engineer focused on delivering reliable and scalable software through modern automation practices and DevOps integration.  
-I specialize in web, mobile, and API testing — and I'm experienced with CI/CD pipelines, cloud infrastructure, and performance monitoring tools.
-
-Currently working at **Co-Ventech**, where I contribute to test automation frameworks, cloud-based pipelines, and quality dashboards across multiple projects.
-
----
-
-## 🧠 Core Competencies
-
-- **Test Automation**: Selenium, Appium, Cucumber BDD, Postman, JMeter
-- **DevOps & CI/CD**: Jenkins, GitHub Actions, Docker, Terraform, AWS
-- **Monitoring**: Prometheus, Grafana
-- **Languages**: Python, Java, JavaScript, SQL
-- **Tools**: Jira, Git, Asana, MS Project
+![Backend](https://img.shields.io/badge/Backend-Systems-blue?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Testing-green?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-orange?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-yellow?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Systems-purple?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-Integration-blueviolet?style=flat-square)
 
 ---
 
-## 🌐 Online Presence
+### 🚀 Focus Areas
 
-- 🌍 [Portfolio Website](https://bawanyabdulrehman.github.io/portfolio)
-- 💼 [LinkedIn](https://linkedin.com/in/abdulrehmanbawany)
-- 💻 [GitHub](https://github.com/bawanyabdulrehman)
-
----
-
-## 📌 Quick Snapshot
-
-| Metric       | Value                     |
-|--------------|----------------------------|
-| 📆 Experience | Test Automation @ Co-Ventech |
-| 🎓 Education  | FAST NUCES (BS CS, 2021–2025) |
-| 🧪 Projects    | Healthcare, AI Chatbot, E-Commerce, FYP |
-| 🚀 FYP        | ConstructEase – SaaS for construction project mgmt |
-| 🛠️ DevOps    | Infra setup (Terraform), CI/CD, monitoring |
+- ⚙️ Backend Engineering  
+- 🧪 Automation Systems  
+- 🔗 API Design & Testing  
+- 🚀 CI/CD Pipelines  
+- ☁️ Cloud Infrastructure  
+- 🤖 AI-enabled engineering workflows  
 
 ---
 
-<!-- Optional stats section -->
-<!--
-## 📊 GitHub Stats
+### ⚙️ Tech Stack
 
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bawanyabdulrehman&show_icons=true&theme=gruvbox)
--->
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
 
-Thanks for stopping by!
+![Playwright](https://img.shields.io/badge/Playwright-black?style=flat-square)
+![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square)
+![Appium](https://img.shields.io/badge/Appium-black?style=flat-square)
+
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=flat-square&logo=githubactions)
+
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+
+---
+
+## 🧠 Focus
+
+Building scalable systems, reliable automation, and improving engineering quality.
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/abdulrehmanbawany/
